@@ -11,7 +11,7 @@ I'm passionate about coding and exploring new technologies, and I'm always looki
 
 Here is My Level:
 
-<p align = "center" width = "700" > <img width = "800" src = "https://badge.mediaplus.ma/colorfulwaves/zel-bouz"/></p>
+<p align = "center" width = "700" > <img width = "800" src = "https://badge.mediaplus.ma/binary/zel-bouz"/></p>
 
 ### Skills
 
