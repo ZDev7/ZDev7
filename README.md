@@ -4,18 +4,22 @@
 
 #### ZAKARIA EL BOUZKRI
 
-# Introduction
+### Introduction
 
 - Hi there! My name is Zakaria El bouzkri, and I'm a computer science student based in 1337 Khouribga, Morocco.
 I'm passionate about coding and exploring new technologies, and I'm always looking for ways to expand my skill set and collaborate with others.
 
-# Skills
+Here is My Level:
+
+<p align = "center" width = "700" > <img width = "800" src = "https://badge.mediaplus.ma/colorfulwaves/zel-bouz"/></p>
+
+### Skills
 
 1 - Programming languages: C/C++, Python, JavaScript, HTML/CSS, Dart
 2 - Tools and frameworks: Git, Node.js, React/native, Django, Flutter
 3 - Operating systems: Linux, Windows, MacOS
 
-# Projects
+### Projects
 
 Here are some of my latest projects:
 
@@ -27,7 +31,7 @@ Here are some of my latest projects:
     2 - The server must correctly receive and interpret this information, then display it.
 and More...
 
-# Contact
+### Contact
 
 If you're interested in collaborating or learning more about my work.
 feel free to reach out to me on GitHub or via email at `elbouzkri9@gmail.com`.
